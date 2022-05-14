@@ -1,4 +1,9 @@
 {
   "noteArray": [
+    {
+      "title": "Test Title",
+      "text": "Test Text",
+      "id": "0"
+    }
   ]
 }
